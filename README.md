@@ -50,3 +50,23 @@ Tenho interesse em programação e desenvolvimento de sistemas. Estou construind
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carlosllohan/carlosllohan/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
+
+<h2 align="center">🐍 Minhas Contribuições</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/carloslohan/carloslohan/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/carloslohan/carloslohan/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Snake animation"
+      src="https://raw.githubusercontent.com/carloslohan/carloslohan/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
